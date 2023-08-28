@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj": {}
+    "c:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj": {
+    "c:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj",
+        "projectUniqueName": "c:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj",
         "projectName": "clase09-pe-19Yamileth",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj",
+        "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\clase09-pe-19Yamileth.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\obj\\",
+        "outputPath": "c:\\Users\\MINEDUCYT\\Desktop\\Materias\\540- Prograació de Computadoras\\clase09-pe-19Yamileth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
